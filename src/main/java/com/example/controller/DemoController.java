@@ -12,5 +12,11 @@ public class DemoController {
 	{
 		return("Hi");
 	}
+	
+	@RequestMapping(value = "/Hai")
+	public String method2()
+	{
+		return("Hi Hi");
+	}
 
 }
