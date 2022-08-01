@@ -12,5 +12,8 @@ public class DemoController {
 	{
 		return("Hi");
 	}
+	
+	
+	System.out.println("Hai");
 
 }
